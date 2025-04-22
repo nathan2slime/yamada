@@ -1,0 +1,3 @@
+{
+  "extends": "@ymd/tsconfig/base.json"
+}
