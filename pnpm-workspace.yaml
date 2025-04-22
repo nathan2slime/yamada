@@ -4,4 +4,6 @@ packages:
 
 onlyBuiltDependencies:
   - '@biomejs/biome'
+  - core-js-pure
   - lefthook
+  - sharp
